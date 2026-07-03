@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Download MezaVPN
+    url: https://github.com/mehrantabasi/MezaVPN/releases/latest
+    about: Download the latest official Android release.
+  - name: Security report
+    url: https://github.com/mehrantabasi/MezaVPN/security/advisories/new
+    about: Report a security vulnerability privately.
