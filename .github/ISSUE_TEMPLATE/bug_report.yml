@@ -1,0 +1,76 @@
+name: Bug report
+description: Report a reproducible problem in MezaVPN
+title: "[Bug]: "
+labels:
+  - bug
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for helping improve MezaVPN. Remove credentials, private configuration values, and personal information before submitting.
+  - type: input
+    id: version
+    attributes:
+      label: MezaVPN version
+      placeholder: "Example: 1.1.2"
+    validations:
+      required: true
+  - type: input
+    id: device
+    attributes:
+      label: Device and Android version
+      placeholder: "Example: Samsung Galaxy A52 — Android 13"
+    validations:
+      required: true
+  - type: dropdown
+    id: area
+    attributes:
+      label: Affected area
+      options:
+        - Connection
+        - Smart Failover
+        - Delay test
+        - Server list
+        - Installation or update
+        - Interface
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: What happened?
+      description: Describe the problem clearly.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      placeholder: |
+        1. Open...
+        2. Tap...
+        3. Observe...
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior
+    validations:
+      required: true
+  - type: textarea
+    id: logs
+    attributes:
+      label: Sanitized logs
+      description: Optional. Never include credentials or private configuration data.
+      render: shell
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Checklist
+      options:
+        - label: I downloaded MezaVPN from the official repository.
+          required: true
+        - label: I removed credentials and personal information from this report.
+          required: true
