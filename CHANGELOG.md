@@ -2,6 +2,15 @@
 
 Notable user-facing changes to MezaVPN are documented here.
 
+## 1.1.3
+
+- Added a polished branded splash screen with a smooth transition into the app.
+- Made connection failures immediately visible with clear in-card guidance and retry feedback.
+- Improved ping results with green responsive states and red Timeout states.
+- Added configurable ping concurrency from 1 to 15 and refined default timeout values.
+- Improved server selection persistence and reset behavior after server-list updates.
+- Restored optional automatic selection of the fastest responsive server after testing.
+
 ## 1.1.2
 
 - Added optional Smart Failover with Stable, Balanced, and Responsive behavior.
