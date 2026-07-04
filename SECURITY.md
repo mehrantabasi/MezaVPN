@@ -2,35 +2,31 @@
 
 ## Supported versions
 
-Security fixes are provided for the latest version published on the official [Releases](https://github.com/mehrantabasi/MezaVPN/releases) page.
+Security fixes are provided for the latest stable version published on the official [Releases](https://github.com/mehrantabasi/MezaVPN/releases) page.
 
 ## Download authenticity
 
-Download MezaVPN only from this repository. Do not install APK files from unofficial mirrors, modified packages, or links shared by unknown parties.
+Download MezaVPN only from this repository. Do not install APK or Windows files from unofficial mirrors, modified packages, or links shared by unknown parties.
 
 The official Android package name is:
 
 ```
-ir.mehransystem.mezavpn
+com.mehransystem.mezavpn
 ```
 
-Release checksums are published with each release when available.
+When provided, compare the downloaded file's SHA-256 checksum with the checksum in its release notes. Windows builds are not yet available; files claiming otherwise are unofficial.
 
 ## Reporting a vulnerability
 
 Please do not disclose credentials, private server information, exploit details, or personal data in a public issue.
 
-Use GitHub's private vulnerability reporting page when available:
-
-https://github.com/mehrantabasi/MezaVPN/security/advisories/new
-
-If private reporting is unavailable, open a short public issue requesting a private contact channel and omit all sensitive technical details.
+Use GitHub's [private vulnerability reporting](https://github.com/mehrantabasi/MezaVPN/security/advisories/new) when available. If private reporting is unavailable, open a short public issue requesting a private contact channel and omit sensitive technical details.
 
 A useful report includes:
 
 - A clear description of the impact
-- Affected MezaVPN version
-- Android version and device model
+- Affected MezaVPN version and platform
+- Operating-system version and device model
 - Reproduction steps
 - Relevant sanitized logs
 
