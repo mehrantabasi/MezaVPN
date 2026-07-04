@@ -66,7 +66,7 @@ Available behavior profiles:
 | Operating system | Android 7.0 (API 24) or newer |
 | Architectures | ARMv7, ARM64, x86_64 |
 | Permission | Android VPN connection permission |
-| Package | `ir.mehransystem.mezavpn` |
+| Package | `com.mehransystem.mezavpn` |
 
 ## Privacy and security
 
