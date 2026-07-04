@@ -1,31 +1,41 @@
-# Download and installation
+# Download MezaVPN
 
-## Official download
+<div align="center">
 
-The latest public build is distributed through GitHub Releases:
+[![Android](https://img.shields.io/badge/Android-Official%20Builds-62E6B5?style=for-the-badge&logo=android&logoColor=07111F)](https://github.com/mehrantabasi/MezaVPN/releases)
+[![Windows](https://img.shields.io/badge/Windows-Coming%20Soon-63A8FF?style=for-the-badge&logo=windows11&logoColor=white)](https://github.com/mehrantabasi/MezaVPN)
 
-**[Open the latest MezaVPN release](https://github.com/mehrantabasi/MezaVPN/releases/latest)**
+**[Open official releases](https://github.com/mehrantabasi/MezaVPN/releases)**
 
-Each release includes an Android APK and release notes. Use the newest stable version unless a release note says otherwise.
+</div>
 
-## Install on Android
+## Android
 
-1. Download the APK from the official Releases page.
-2. Open the downloaded file.
-3. If Android blocks the installation, allow **Install unknown apps** for the browser or file manager you used.
-4. Complete the installation.
-5. Open MezaVPN and approve the system VPN permission when connecting for the first time.
+Official Android builds are distributed only through the GitHub Releases page. When a release is available:
 
-## Updating
+1. Open the [Releases page](https://github.com/mehrantabasi/MezaVPN/releases).
+2. Select the newest stable release.
+3. Download the attached file ending in `.apk`.
+4. Compare its SHA-256 checksum with the value shown in the release notes, when provided.
+5. Open the APK and complete the installation.
+6. Approve Android's VPN permission on the first connection.
 
-Download the newer APK and install it over the existing application. Your settings should remain available. Android will accept an in-place update only when both APK files use the same official signing identity.
+## Windows
+
+A Windows edition is planned and will be announced in this repository when it is ready. Do not download files claiming to be MezaVPN for Windows from third-party sources.
+
+## Updating Android
+
+Install the newer official APK over the existing application. Settings should remain available. Android accepts an in-place update only when both APK files use the same official signing identity.
 
 ## Compatibility
 
-- Android 7.0 or newer
-- ARMv7, ARM64, and x86_64
-- Internet connection
-- Android VPN permission
+| Requirement | Details |
+|---|---|
+| Operating system | Android 7.0 (API 24) or newer |
+| Architectures | ARMv7, ARM64, x86_64 |
+| Package | `com.mehransystem.mezavpn` |
+| Permission | Android VPN connection permission |
 
 ## Installation problems
 
@@ -36,3 +46,5 @@ If installation fails:
 - Check that enough storage is available.
 - Download the APK again in case the file is incomplete.
 - Report the exact Android error through [GitHub Issues](https://github.com/mehrantabasi/MezaVPN/issues/new/choose).
+
+> Official MezaVPN builds are never distributed through third-party APK mirrors.
