@@ -10,7 +10,7 @@ A focused VPN experience built for quick connections, clear status, and dependab
 
 [![Android](https://img.shields.io/badge/Android-Available-62E6B5?style=for-the-badge&logo=android&logoColor=07111F)](DOWNLOAD.md)
 [![Windows](https://img.shields.io/badge/Windows-Coming%20Soon-63A8FF?style=for-the-badge&logo=windows11&logoColor=white)](#platforms)
-[![Version](https://img.shields.io/badge/Version-1.1.2-17283F?style=for-the-badge)](CHANGELOG.md)
+[![Version](https://img.shields.io/badge/Version-1.1.3-17283F?style=for-the-badge)](CHANGELOG.md)
 [![Downloads](https://img.shields.io/github/downloads/mehrantabasi/MezaVPN/total?style=for-the-badge&color=8B7CFF)](https://github.com/mehrantabasi/MezaVPN/releases)
 
 <br>
@@ -100,7 +100,7 @@ See the detailed [download and installation guide](DOWNLOAD.md).
 
 | Item | Details |
 |---|---|
-| Current version | **1.1.2** |
+| Current version | **1.1.3** |
 | Android package | `com.mehransystem.mezavpn` |
 | Minimum Android | Android 7.0 / API 24 |
 | Architectures | ARMv7, ARM64, x86_64 |
