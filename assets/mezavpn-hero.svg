@@ -14,7 +14,7 @@
 </defs>
 <rect width="1280" height="480" rx="32" fill="url(#panel)"/>
 <circle cx="1080" cy="40" r="360" fill="url(#glowBlue)"/><circle cx="40" cy="480" r="300" fill="url(#glowMint)"/>
-<g filter="url(#shadow)"><rect x="72" y="62" width="118" height="118" rx="34" fill="url(#brand)"/><path d="M131 89c20 14 37 16 52 18v33c0 28-18 46-52 58-34-12-52-30-52-58v-33c15-2 32-4 52-18Z" fill="#07111F"/></g>
+<image href="mezavpn-logo.png" x="72" y="62" width="118" height="118" preserveAspectRatio="xMidYMid meet" filter="url(#shadow)"/>
 <text x="222" y="116" fill="#F7FAFC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="52" font-weight="750">MezaVPN</text>
 <text x="222" y="159" fill="#9CB0C8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="23">Private. Fast. Effortless.</text>
 <text x="72" y="266" fill="#F7FAFC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="31" font-weight="650">A calmer way to connect.</text>
