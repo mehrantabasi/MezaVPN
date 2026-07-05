@@ -2,6 +2,13 @@
 
 Notable user-facing changes to MezaVPN are documented here.
 
+## 1.1.4
+
+- Fixed false Timeout results during repeated and high-concurrency Ping Tests.
+- Aligned native test concurrency with the app setting and improved temporary Xray process cleanup.
+- Ensured every server is measured exactly once in each Ping Test.
+- Introduced the new MezaVPN brand icon across Android, iOS, the splash screen, and in-app identity.
+
 ## 1.1.3
 
 - Added a polished branded splash screen with a smooth transition into the app.
