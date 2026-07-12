@@ -2,6 +2,14 @@
 
 Notable user-facing changes to MezaVPN are documented here.
 
+## 1.2.0
+
+- Added one-tap setup: MezaVPN can update servers, test them, select the fastest responsive option, and connect automatically.
+- Improved server-update errors, Ping Test cancellation feedback, and default test performance settings.
+- Improved VPN stability when the app moves to the background, with predictable Back and Recent Apps behavior.
+- Improved Android launcher-icon sizing across different device masks and launchers.
+- Added dynamic app-version metadata and version-aligned server requests.
+
 ## 1.1.4
 
 - Fixed false Timeout results during repeated and high-concurrency Ping Tests.
