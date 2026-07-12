@@ -2,6 +2,14 @@
 
 Notable user-facing changes to MezaVPN are documented here.
 
+
+## 1.2.1
+
+- Added comprehensive country detection from flags, full names, aliases, and ISO codes without changing server titles.
+- Added a new subscription source and fast linked-subscription fallback for empty primary feeds.
+- Fixed an intermittent reconnect or error state after the user disconnects.
+- Kept the first-run Connect button visually active when no servers are loaded.
+
 ## 1.2.0
 
 - Added one-tap setup: MezaVPN can update servers, test them, select the fastest responsive option, and connect automatically.
