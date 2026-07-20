@@ -5,7 +5,9 @@
 [![Android](https://img.shields.io/badge/Android-Official%20Builds-62E6B5?style=for-the-badge&logo=android&logoColor=07111F)](https://github.com/mehrantabasi/MezaVPN/releases)
 [![Windows](https://img.shields.io/badge/Windows-Coming%20Soon-63A8FF?style=for-the-badge&logo=windows11&logoColor=white)](https://github.com/mehrantabasi/MezaVPN)
 
-**[Open official releases](https://github.com/mehrantabasi/MezaVPN/releases)**
+**[Download MezaVPN 1.3.0 for Android](https://github.com/mehrantabasi/MezaVPN/releases/download/v1.3.0/MezaVPN-v1.3.0-android.apk)**
+
+[Open all official releases](https://github.com/mehrantabasi/MezaVPN/releases)
 
 </div>
 
@@ -26,7 +28,7 @@ A Windows edition is planned and will be announced in this repository when it is
 
 ## Updating Android
 
-Install the newer official APK over the existing application. Settings should remain available. Android accepts an in-place update only when both APK files use the same official signing identity.
+MezaVPN can notify you when an official update is available and open its download page directly. Install the newer official APK over the existing application. Settings should remain available. Android accepts an in-place update only when both APK files use the same official signing identity.
 
 ## Compatibility
 
