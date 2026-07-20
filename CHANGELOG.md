@@ -2,6 +2,13 @@
 
 Notable user-facing changes to MezaVPN are documented here.
 
+## 1.3.0
+
+- Added built-in update notices with direct access to the latest official download.
+- Added optional system notifications for important MezaVPN announcements.
+- Added a polished bilingual About page with the Meza story, project mission, developer identity, and official GitHub link.
+- Refined the startup and splash experience across older and newer Android devices.
+- Improved overall responsiveness, stability, and compatibility.
 
 ## 1.2.1
 

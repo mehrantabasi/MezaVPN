@@ -8,9 +8,9 @@
 
 A focused VPN experience built for quick connections, clear status, and dependable everyday use.
 
-[![Android](https://img.shields.io/badge/Android-Available-62E6B5?style=for-the-badge&logo=android&logoColor=07111F)](DOWNLOAD.md)
+[![Android](https://img.shields.io/badge/Android-Download-62E6B5?style=for-the-badge&logo=android&logoColor=07111F)](https://github.com/mehrantabasi/MezaVPN/releases/download/v1.3.0/MezaVPN-v1.3.0-android.apk)
 [![Windows](https://img.shields.io/badge/Windows-Coming%20Soon-63A8FF?style=for-the-badge&logo=windows11&logoColor=white)](#platforms)
-[![Version](https://img.shields.io/badge/Version-1.2.1-17283F?style=for-the-badge)](CHANGELOG.md)
+[![Version](https://img.shields.io/badge/Version-1.3.0-17283F?style=for-the-badge)](CHANGELOG.md)
 [![Downloads](https://img.shields.io/github/downloads/mehrantabasi/MezaVPN/total?style=for-the-badge&color=8B7CFF)](https://github.com/mehrantabasi/MezaVPN/releases)
 
 <br>
@@ -56,9 +56,9 @@ Optional health monitoring can move the connection to a meaningfully better serv
 </td>
 <td width="50%" valign="top">
 
-### 🌙 Quiet by design
+### 🌙 Privacy controls
 
-No advertising or analytics SDKs—just focused controls and clear feedback.
+No advertising SDKs, no account requirement, and clear control over anonymous usage statistics.
 
 </td>
 </tr>
@@ -79,6 +79,8 @@ No advertising or analytics SDKs—just focused controls and clear feedback.
 - **Real delay testing** instead of a misleading basic ping
 - **Responsive server ordering** as test results arrive
 - **One-tap VPN control** with clear connection feedback
+- **Built-in update notices** with direct access to official downloads
+- **Optional notifications** for important MezaVPN announcements
 - **ARMv7, ARM64, and x86_64** architecture support
 - **Android 7.0+** compatibility
 
@@ -100,16 +102,17 @@ See the detailed [download and installation guide](DOWNLOAD.md).
 
 | Item | Details |
 |---|---|
-| Current version | **1.2.1** |
+| Current version | **1.3.0** |
 | Android package | `com.mehransystem.mezavpn` |
 | Minimum Android | Android 7.0 / API 24 |
 | Architectures | ARMv7, ARM64, x86_64 |
 | Account required | No |
-| Ads / analytics SDKs | None |
+| Advertising SDKs | None |
+| Anonymous usage statistics | Optional and controlled in Settings |
 
 ## Privacy and security
 
-MezaVPN does not include advertising or analytics SDKs. Connection processing takes place on the device and through the VPN server selected by the app. As with every VPN product, server operators and external services may process technical network information required to deliver their services.
+MezaVPN does not include advertising SDKs and does not require an account. Privacy-friendly anonymous usage statistics can be disabled in Settings. Connection processing takes place on the device and through the VPN server selected by the app. See the Privacy Policy for complete details.
 
 - [Privacy Policy](PRIVACY.md)
 - [Security Policy](SECURITY.md)
