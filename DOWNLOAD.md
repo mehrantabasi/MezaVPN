@@ -5,7 +5,7 @@
 [![Android](https://img.shields.io/badge/Android-Official%20Builds-62E6B5?style=for-the-badge&logo=android&logoColor=07111F)](https://github.com/mehrantabasi/MezaVPN/releases)
 [![Windows](https://img.shields.io/badge/Windows-Coming%20Soon-63A8FF?style=for-the-badge&logo=windows11&logoColor=white)](https://github.com/mehrantabasi/MezaVPN)
 
-**[Download MezaVPN 1.3.0 for Android](https://github.com/mehrantabasi/MezaVPN/releases/download/v1.3.0/MezaVPN-v1.3.0-android.apk)**
+**[Download MezaVPN 1.4.0 for Android](https://github.com/mehrantabasi/MezaVPN/releases/download/v1.4.0/MezaVPN-v1.4.0-android.apk)**
 
 [Open all official releases](https://github.com/mehrantabasi/MezaVPN/releases)
 

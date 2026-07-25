@@ -18,7 +18,7 @@
 <text x="222" y="116" fill="#F7FAFC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="52" font-weight="750">MezaVPN</text>
 <text x="222" y="159" fill="#9CB0C8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="23">Private. Fast. Effortless.</text>
 <text x="72" y="266" fill="#F7FAFC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="31" font-weight="650">A calmer way to connect.</text>
-<text x="72" y="308" fill="#9CB0C8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="19">Verified connections · Smart Failover · Real delay testing</text>
+<text x="72" y="308" fill="#9CB0C8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="19">Verified connections · Auto Location · Real delay testing</text>
 <g font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="650">
   <rect x="72" y="356" width="184" height="50" rx="25" fill="#62E6B5" fill-opacity=".13" stroke="#62E6B5" stroke-opacity=".44"/>
   <circle cx="101" cy="381" r="7" fill="#62E6B5"/><text x="119" y="387" fill="#C6FAE7">Android · Available</text>

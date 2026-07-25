@@ -2,6 +2,17 @@
 
 Notable user-facing changes to MezaVPN are documented here.
 
+## 1.4.0
+
+- Added Auto Location for simple one-tap server selection and connection.
+- Improved server selection using responsiveness, streaming quality, and
+  connection reliability.
+- Added automatic recovery that can move to a verified alternative when the
+  active connection becomes unusable.
+- Added seamless manual server switching while the VPN is connected.
+- Improved server updates, duplicate removal, connection feedback, and overall
+  stability.
+
 ## 1.3.0
 
 - Added built-in update notices with direct access to the latest official download.

@@ -8,9 +8,9 @@
 
 A focused VPN experience built for quick connections, clear status, and dependable everyday use.
 
-[![Android](https://img.shields.io/badge/Android-Download-62E6B5?style=for-the-badge&logo=android&logoColor=07111F)](https://github.com/mehrantabasi/MezaVPN/releases/download/v1.3.0/MezaVPN-v1.3.0-android.apk)
+[![Android](https://img.shields.io/badge/Android-Download-62E6B5?style=for-the-badge&logo=android&logoColor=07111F)](https://github.com/mehrantabasi/MezaVPN/releases/download/v1.4.0/MezaVPN-v1.4.0-android.apk)
 [![Windows](https://img.shields.io/badge/Windows-Coming%20Soon-63A8FF?style=for-the-badge&logo=windows11&logoColor=white)](#platforms)
-[![Version](https://img.shields.io/badge/Version-1.3.0-17283F?style=for-the-badge)](CHANGELOG.md)
+[![Version](https://img.shields.io/badge/Version-1.4.0-17283F?style=for-the-badge)](CHANGELOG.md)
 [![Downloads](https://img.shields.io/github/downloads/mehrantabasi/MezaVPN/total?style=for-the-badge&color=8B7CFF)](https://github.com/mehrantabasi/MezaVPN/releases)
 
 <br>
@@ -49,9 +49,9 @@ Real delay measurements help surface responsive servers while tests are still ru
 <tr>
 <td width="50%" valign="top">
 
-### 🔄 Smart Failover
+### ✨ Auto Location
 
-Optional health monitoring can move the connection to a meaningfully better server.
+Automatically chooses a strong connection and moves to a verified alternative when needed.
 
 </td>
 <td width="50%" valign="top">
@@ -75,7 +75,8 @@ No advertising SDKs, no account requirement, and clear control over anonymous us
 
 ## Android highlights
 
-- **Smart Failover** with Stable, Balanced, and Responsive behavior profiles
+- **Auto Location** with intelligent server selection and connection recovery
+- **Streaming-quality checks** for more dependable everyday media use
 - **Real delay testing** instead of a misleading basic ping
 - **Responsive server ordering** as test results arrive
 - **One-tap VPN control** with clear connection feedback
@@ -102,7 +103,7 @@ See the detailed [download and installation guide](DOWNLOAD.md).
 
 | Item | Details |
 |---|---|
-| Current version | **1.3.0** |
+| Current version | **1.4.0** |
 | Android package | `com.mehransystem.mezavpn` |
 | Minimum Android | Android 7.0 / API 24 |
 | Architectures | ARMv7, ARM64, x86_64 |
