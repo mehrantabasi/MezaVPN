@@ -1,138 +1,140 @@
 <div align="center">
 
-<img src="assets/mezavpn-logo.png" width="112" height="112" alt="MezaVPN logo">
+<img src="assets/mezavpn-logo.png" width="104" height="104" alt="MezaVPN logo">
 
 # MezaVPN
 
 ### Private. Fast. Effortless.
 
-A focused VPN experience built for quick connections, clear status, and dependable everyday use.
+A dependable VPN experience with simple controls, honest connection status,
+and a calm interface that stays out of your way.
 
-[![Android](https://img.shields.io/badge/Android-Download-62E6B5?style=for-the-badge&logo=android&logoColor=07111F)](https://github.com/mehrantabasi/MezaVPN/releases/download/v1.4.0/MezaVPN-v1.4.0-android.apk)
-[![Windows](https://img.shields.io/badge/Windows-Coming%20Soon-63A8FF?style=for-the-badge&logo=windows11&logoColor=white)](#platforms)
-[![Version](https://img.shields.io/badge/Version-1.4.0-17283F?style=for-the-badge)](CHANGELOG.md)
-[![Downloads](https://img.shields.io/github/downloads/mehrantabasi/MezaVPN/total?style=for-the-badge&color=8B7CFF)](https://github.com/mehrantabasi/MezaVPN/releases)
+[![Get MezaVPN for Android](https://img.shields.io/badge/Get%20MezaVPN-Android-62E6B5?style=for-the-badge&logo=android&logoColor=07111F)](https://github.com/mehrantabasi/MezaVPN/releases)
+[![Windows edition](https://img.shields.io/badge/Windows-In%20development-63A8FF?style=for-the-badge&logo=windows11&logoColor=white)](#windows-edition)
 
-<br>
-
-<a href="https://github.com/mehrantabasi/MezaVPN/releases">
-  <img src="https://img.shields.io/badge/View-Official%20Releases-62E6B5?style=for-the-badge&logo=github&logoColor=07111F" alt="View official MezaVPN releases">
-</a>
+[![Latest release](https://img.shields.io/github/v/release/mehrantabasi/MezaVPN?display_name=tag&style=flat-square&label=latest&color=17283F)](https://github.com/mehrantabasi/MezaVPN/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/mehrantabasi/MezaVPN/total?style=flat-square&label=downloads&color=8B7CFF)](https://github.com/mehrantabasi/MezaVPN/releases)
+[![License](https://img.shields.io/badge/license-proprietary-17283F?style=flat-square)](LICENSE)
 
 </div>
 
-<br>
-
-<img src="assets/mezavpn-hero.svg" width="100%" alt="MezaVPN — a dependable VPN experience">
-
-## Built to feel effortless
-
-MezaVPN keeps the important things close: a clear connection state, practical server testing, and one-tap control. The interface stays calm and readable while the connection engine handles the complicated work underneath.
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### ⚡ Fast decisions
-
-Real delay measurements help surface responsive servers while tests are still running.
-
-</td>
-<td width="50%" valign="top">
-
-### 🛡️ Verified connections
-
-“Connected” appears only after the tunnel demonstrates real internet access.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ✨ Auto Location
-
-Automatically chooses a strong connection and moves to a verified alternative when needed.
-
-</td>
-<td width="50%" valign="top">
-
-### 🌙 Privacy controls
-
-No advertising SDKs, no account requirement, and clear control over anonymous usage statistics.
-
-</td>
-</tr>
-</table>
-
-## Platforms
-
-| Platform | Status | Requirements | Distribution |
-|---|---|---|---|
-| **Android** | 🟢 Available | Android 7.0 (API 24) or newer | [Official Releases](https://github.com/mehrantabasi/MezaVPN/releases) |
-| **Windows** | 🔵 Coming soon | To be announced | This repository |
-
-> Windows support is planned. Availability and system requirements will be announced here when the desktop build is ready.
-
-## Android highlights
-
-- **Auto Location** with intelligent server selection and connection recovery
-- **Streaming-quality checks** for more dependable everyday media use
-- **Real delay testing** instead of a misleading basic ping
-- **Responsive server ordering** as test results arrive
-- **One-tap VPN control** with clear connection feedback
-- **Built-in update notices** with direct access to official downloads
-- **Optional notifications** for important MezaVPN announcements
-- **ARMv7, ARM64, and x86_64** architecture support
-- **Android 7.0+** compatibility
-
-## Download safely
-
-Official builds are distributed exclusively through this repository.
-
-1. Open [MezaVPN Releases](https://github.com/mehrantabasi/MezaVPN/releases).
-2. Choose the newest stable Android release.
-3. Download the attached `.apk` file.
-4. Install it and approve Android's VPN permission on first connection.
-5. Optionally verify the published SHA-256 checksum before installation.
-
-> Never install MezaVPN from unofficial mirrors or third-party APK websites. Those files may be modified or outdated.
-
-See the detailed [download and installation guide](DOWNLOAD.md).
-
-## Technical details
-
-| Item | Details |
-|---|---|
-| Current version | **1.4.0** |
-| Android package | `com.mehransystem.mezavpn` |
-| Minimum Android | Android 7.0 / API 24 |
-| Architectures | ARMv7, ARM64, x86_64 |
-| Account required | No |
-| Advertising SDKs | None |
-| Anonymous usage statistics | Optional and controlled in Settings |
-
-## Privacy and security
-
-MezaVPN does not include advertising SDKs and does not require an account. Privacy-friendly anonymous usage statistics can be disabled in Settings. Connection processing takes place on the device and through the VPN server selected by the app. See the Privacy Policy for complete details.
-
-- [Privacy Policy](PRIVACY.md)
-- [Security Policy](SECURITY.md)
-- [Changelog](CHANGELOG.md)
-
-## Support
-
-Found a reproducible problem or have a useful suggestion? [Open an issue](https://github.com/mehrantabasi/MezaVPN/issues/new/choose) and include the app version, Android version, device model, expected behavior, actual behavior, and sanitized logs.
-
-## Official distribution repository
-
-This repository contains official MezaVPN documentation and release downloads. Application source code is not distributed here. MezaVPN is proprietary software; see the [license](LICENSE) for usage terms.
+<img src="assets/mezavpn-hero.svg" width="100%" alt="MezaVPN — a clearer way to connect on Android and Windows">
 
 <div align="center">
 
-<br>
+[Download](#download) · [Features](#made-for-everyday-connections) · [Platforms](#platforms) · [Privacy](#privacy-you-can-control) · [Support](#support)
+
+</div>
+
+## Made for everyday connections
+
+MezaVPN turns a complicated network task into a clear, focused experience.
+Choose a location—or let Auto Location make the decision—then connect with one
+tap. The app keeps technical noise in the background and shows the information
+that actually matters.
+
+- **One-tap control** with clear connecting, connected, and recovery states
+- **Auto Location** for effortless server selection on Android
+- **Measured responsiveness** to help surface practical, usable connections
+- **Verified connection status** before the app reports that the VPN is ready
+- **Readable server browsing** with location details and live quality feedback
+- **Thoughtful recovery** when an Android Auto connection stops being usable
+- **Built-in update notices** that lead back to official MezaVPN downloads
+
+## Platforms
+
+### Android — available now
+
+The stable Android edition is ready for everyday use on Android 7.0 and newer.
+It supports ARM64, ARMv7, and x86_64 devices in one official APK.
+
+[![View Android releases](https://img.shields.io/badge/View-Android%20releases-62E6B5?style=for-the-badge&logo=android&logoColor=07111F)](https://github.com/mehrantabasi/MezaVPN/releases)
+
+Android highlights:
+
+- Automatic or manual location selection
+- Live server refresh and cancellable quality testing
+- Connection verification and clear failure feedback
+- Smooth server switching while connected
+- Optional announcements and anonymous usage statistics
+- A compact interface designed for both narrow and large phone screens
+
+<a id="windows-edition"></a>
+
+### Windows — in active development
+
+MezaVPN for Windows is a real desktop edition, not a stretched phone layout.
+The current development build includes an adaptive desktop interface, automatic
+or manual server selection, search and response-quality views, clear connection
+details, system-tray controls, startup preferences, and a guided update
+experience.
+
+The public Windows installer is being held until signing and release
+qualification are complete. This repository will be the first official place
+to receive it. Until a Windows asset appears under
+[Releases](https://github.com/mehrantabasi/MezaVPN/releases), files offered
+elsewhere are not official MezaVPN builds.
+
+## Download
+
+Official MezaVPN builds are distributed exclusively through this repository.
+
+1. Open [MezaVPN Releases](https://github.com/mehrantabasi/MezaVPN/releases).
+2. Choose the newest stable Android release and download its `.apk` file.
+3. Optionally compare its SHA-256 checksum with the value published in the release.
+4. Install the app and approve Android's VPN permission on the first connection.
+
+For compatibility notes and installation help, see the
+[download guide](DOWNLOAD.md).
+
+> **Stay safe:** do not install MezaVPN from APK mirrors, unofficial channels,
+> or unknown links. They may be modified, outdated, or falsely branded.
+
+## Privacy you can control
+
+MezaVPN is designed to work without an account and contains no advertising
+SDKs. Optional anonymous usage statistics can be turned off in Settings.
+MezaVPN does not intentionally collect browsing history, communication content,
+contacts, media, precise location, or advertising identifiers through those
+statistics.
+
+Network services involved in providing a VPN connection may still process the
+technical information required to operate. Read the plain-language
+[Privacy Policy](PRIVACY.md) for the complete details and limitations.
+
+## Trust and distribution
+
+- Official downloads live only under [MezaVPN Releases](https://github.com/mehrantabasi/MezaVPN/releases).
+- Stable release notes and SHA-256 checksums are published alongside downloads.
+- Security fixes are provided for the latest stable release.
+- Sensitive vulnerability reports can be submitted privately through
+  [GitHub Security Advisories](https://github.com/mehrantabasi/MezaVPN/security/advisories/new).
+
+This is the official MezaVPN distribution and documentation repository.
+Application source code is not published here. MezaVPN is proprietary software;
+see the [license](LICENSE) for the usage terms.
+
+## Support
+
+Found a reproducible problem or have a useful suggestion? Open a
+[GitHub issue](https://github.com/mehrantabasi/MezaVPN/issues/new/choose) and
+include the MezaVPN version, operating-system version, device model, expected
+behavior, actual behavior, and sanitized logs. Never post credentials, private
+server details, or personal information in a public issue.
+
+## Project links
+
+- [All releases](https://github.com/mehrantabasi/MezaVPN/releases)
+- [Download and installation guide](DOWNLOAD.md)
+- [Changelog](CHANGELOG.md)
+- [Privacy Policy](PRIVACY.md)
+- [Security Policy](SECURITY.md)
+- [License](LICENSE)
+
+<div align="center">
 
 **Mehran Tabasi · Mehran System**
 
-Made with care for a simpler and more dependable VPN experience.
+Made with care for a simpler, clearer, and more dependable VPN experience.
 
 </div>
