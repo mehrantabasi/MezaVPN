@@ -16,6 +16,8 @@ Simple controls, truthful connection status, and practical server selection—wi
 [![Downloads](https://img.shields.io/github/downloads/mehrantabasi/MezaVPN/total?style=flat-square&label=downloads&color=8B7CFF)](https://github.com/mehrantabasi/MezaVPN/releases)
 [![License](https://img.shields.io/badge/license-proprietary-17283F?style=flat-square)](LICENSE)
 
+[Official website](https://mehrantabasi.github.io/MezaVPN/) · [فارسی](https://mehrantabasi.github.io/MezaVPN/fa.html)
+
 </div>
 
 <img src="assets/mezavpn-hero-v2.png" width="100%" alt="Abstract MezaVPN secure connection artwork">

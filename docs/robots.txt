@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mehrantabasi.github.io/MezaVPN/sitemap.xml
