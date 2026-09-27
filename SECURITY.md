@@ -1,34 +1,33 @@
 # Security Policy
 
-## Supported versions
+## Supported version
 
 Security fixes are provided for the latest stable version published on the official [Releases](https://github.com/mehrantabasi/MezaVPN/releases) page.
 
+| Version | Supported |
+| --- | --- |
+| 2.0.x | Yes |
+| 1.x | No |
+
 ## Download authenticity
 
-Download MezaVPN only from this repository. Do not install APK or Windows files from unofficial mirrors, modified packages, or links shared by unknown parties.
+Download MezaVPN only from this repository. Every 2.0.0 release includes `MezaVPN-2.0.0-SHA256SUMS.txt`; compare your download before installation.
 
-The official Android package name is:
+The official Android package name is `com.mehransystem.mezavpn`. Android 2.0.0 uses the same release-signing identity as previous official MezaVPN APKs and can update them in place.
 
-```
-com.mehransystem.mezavpn
-```
-
-When provided, compare the downloaded file's SHA-256 checksum with the checksum in its release notes. Windows builds are not yet available; files claiming otherwise are unofficial.
+The Windows 2.0.0 installers are **not Authenticode-signed**. Windows may report an unknown publisher or display SmartScreen. A valid SHA-256 match verifies that the bytes equal the file published here, but it is not a substitute for publisher code signing. Never bypass a Windows warning for a copy obtained outside this repository.
 
 ## Reporting a vulnerability
 
-Please do not disclose credentials, private server information, exploit details, or personal data in a public issue.
-
-Use GitHub's [private vulnerability reporting](https://github.com/mehrantabasi/MezaVPN/security/advisories/new) when available. If private reporting is unavailable, open a short public issue requesting a private contact channel and omit sensitive technical details.
+Do not publish credentials, private server details, exploit code, or personal data in a public issue. Use GitHub’s [private vulnerability reporting](https://github.com/mehrantabasi/MezaVPN/security/advisories/new).
 
 A useful report includes:
 
-- A clear description of the impact
-- Affected MezaVPN version and platform
-- Operating-system version and device model
+- Impact and affected platform
+- MezaVPN and operating-system versions
+- Architecture and device model where relevant
 - Reproduction steps
-- Relevant sanitized logs
+- Sanitized logs or screenshots
 
 Reports made in good faith are appreciated.
 

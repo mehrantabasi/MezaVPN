@@ -12,14 +12,14 @@ body:
     id: version
     attributes:
       label: MezaVPN version
-      placeholder: "Example: 1.1.2"
+      placeholder: "Example: 2.0.0"
     validations:
       required: true
   - type: input
     id: device
     attributes:
-      label: Device and Android version
-      placeholder: "Example: Samsung Galaxy A52 — Android 13"
+      label: Device, architecture, and OS version
+      placeholder: "Example: Windows 11 x64 or Samsung Galaxy A52 — Android 13"
     validations:
       required: true
   - type: dropdown
@@ -28,10 +28,13 @@ body:
       label: Affected area
       options:
         - Connection
-        - Smart Failover
-        - Delay test
+        - Auto mode
+        - Manual mode
+        - Quality test
         - Server list
+        - Search or filters
         - Installation or update
+        - Performance
         - Interface
         - Other
     validations:
@@ -71,6 +74,8 @@ body:
       label: Checklist
       options:
         - label: I downloaded MezaVPN from the official repository.
+          required: true
+        - label: I removed private server configurations from this report.
           required: true
         - label: I removed credentials and personal information from this report.
           required: true
