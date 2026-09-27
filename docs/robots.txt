@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://mehrantabasi.github.io/MezaVPN/sitemap.xml
+Sitemap: https://mehrantabasi.github.io/MezaVPN/sitemap.txt
