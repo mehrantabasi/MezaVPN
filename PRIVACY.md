@@ -1,8 +1,8 @@
 # Privacy Policy
 
-**Effective date:** July 20, 2026
+**Effective date:** September 27, 2026
 
-MezaVPN is designed to provide an Android VPN connection without advertising SDKs or an account requirement. This policy explains the limited information used by the official MezaVPN application distributed through this repository.
+MezaVPN is designed to provide Android and Windows VPN connections without advertising SDKs or an account requirement. This policy explains the limited information used by the official MezaVPN applications distributed through this repository.
 
 ## Information stored on the device
 
@@ -15,6 +15,7 @@ MezaVPN may store the following information locally so the app can operate corre
 - The time of the most recent server-list update
 - A randomly generated installation identifier used for optional anonymous statistics
 - Update and notification preferences
+- On Windows, local diagnostics and update files needed for troubleshooting and reliable upgrades
 
 This information remains in the application's private storage unless the user removes the app or clears its data.
 
@@ -35,12 +36,22 @@ The submitted data is limited to:
 - A random application installation identifier
 - Application version and build number
 - Operating-system platform
+- On Windows, bounded aggregate counters for app launches, connection attempts,
+  successes, failures, cancellations, automatic-mode attempts, unexpected
+  disconnects, and total connected time
 
-MezaVPN does not send browsing activity, VPN destinations, selected servers, configuration contents, contacts, location, advertising identifiers, or hardware identifiers with these statistics. Standard server access logs may temporarily contain network information such as an IP address as part of normal hosting and security operations.
+These Windows counters describe product outcomes only. They do not contain
+server names, countries, IP addresses, traffic content, destinations, DNS
+activity, configuration values, files, processes, or hardware identifiers.
+MezaVPN does not send browsing activity, VPN destinations, selected servers,
+configuration contents, contacts, location, advertising identifiers, or
+hardware identifiers with these statistics. Standard server access logs may
+temporarily contain network information such as an IP address as part of normal
+hosting and security operations.
 
 ## Notifications
 
-MezaVPN uses Firebase Cloud Messaging to deliver optional announcements. Android may request notification permission where required by the operating system. Notification delivery is handled by Google under its applicable terms and privacy practices.
+The Android edition uses Firebase Cloud Messaging to deliver optional announcements. Android may request notification permission where required by the operating system. Notification delivery is handled by Google under its applicable terms and privacy practices.
 
 MezaVPN sends notifications through a shared platform topic and does not store individual Firebase device tokens in the MezaVPN management service. If anonymous usage statistics are enabled, opening a notification may submit a random, notification-specific event so aggregate engagement can be measured without building a cross-campaign user profile.
 
