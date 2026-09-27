@@ -1,0 +1,13 @@
+{
+  "name": "MezaVPN – Free VPN for Android and Windows",
+  "short_name": "MezaVPN",
+  "start_url": "/MezaVPN/",
+  "scope": "/MezaVPN/",
+  "display": "browser",
+  "background_color": "#07111f",
+  "theme_color": "#07111f",
+  "icons": [
+    {"src": "assets/icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "assets/logo-512.png", "sizes": "512x512", "type": "image/png"}
+  ]
+}

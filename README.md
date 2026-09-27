@@ -2,13 +2,13 @@
 
 <img src="assets/mezavpn-logo.png" width="104" height="104" alt="MezaVPN logo">
 
-# MezaVPN — VPN for Android and Windows
+# MezaVPN — Free VPN for Android and Windows
 
 ### Official MezaVPN downloads and release information
 
-MezaVPN is a VPN application for Android and native Windows with simple controls, clear connection status, and practical automatic or manual server selection—without an account or advertising SDKs.
+MezaVPN is a **free VPN app** for Android and native Windows with simple controls, clear connection status, and practical automatic or manual server selection—without an account or advertising SDKs.
 
-**فارسی:** برای دانلود رسمی MezaVPN اندروید یا ویندوز و مطالعه معرفی فارسی، به [وب‌سایت فارسی MezaVPN](https://mehrantabasi.github.io/MezaVPN/fa.html) مراجعه کنید.
+**فارسی:** MezaVPN (مزا وی پی ان) یک **فیلترشکن و وی پی ان رایگان** برای اندروید و ویندوز است؛ بدون ثبت‌نام و بدون تبلیغات. [دانلود فیلترشکن اندروید](https://mehrantabasi.github.io/MezaVPN/fa-android.html) · [دانلود فیلترشکن ویندوز](https://mehrantabasi.github.io/MezaVPN/fa-windows.html) · [وب‌سایت فارسی](https://mehrantabasi.github.io/MezaVPN/fa.html)
 
 [![Latest release](https://img.shields.io/badge/Download-v2.0.0-62E6B5?style=for-the-badge&logo=github&logoColor=07111F)](https://github.com/mehrantabasi/MezaVPN/releases/latest)
 [![Android](https://img.shields.io/badge/Android-7.0%2B-3DDC84?style=for-the-badge&logo=android&logoColor=07111F)](https://github.com/mehrantabasi/MezaVPN/releases/latest)
@@ -18,11 +18,11 @@ MezaVPN is a VPN application for Android and native Windows with simple controls
 [![Downloads](https://img.shields.io/github/downloads/mehrantabasi/MezaVPN/total?style=flat-square&label=downloads&color=8B7CFF)](https://github.com/mehrantabasi/MezaVPN/releases)
 [![License](https://img.shields.io/badge/license-proprietary-17283F?style=flat-square)](LICENSE)
 
-[MezaVPN official website](https://mehrantabasi.github.io/MezaVPN/) · [MezaVPN فارسی](https://mehrantabasi.github.io/MezaVPN/fa.html)
+[MezaVPN official website](https://mehrantabasi.github.io/MezaVPN/) · [Free VPN for Android](https://mehrantabasi.github.io/MezaVPN/vpn-for-android.html) · [Free VPN for Windows](https://mehrantabasi.github.io/MezaVPN/vpn-for-windows.html) · [MezaVPN فارسی](https://mehrantabasi.github.io/MezaVPN/fa.html)
 
 </div>
 
-<img src="assets/mezavpn-hero-v2.png" width="100%" alt="MezaVPN VPN application for Android and native Windows">
+<img src="assets/mezavpn-hero-v2.png" width="100%" alt="MezaVPN – free VPN app for Android and Windows">
 
 <div align="center">
 
@@ -89,9 +89,17 @@ Official MezaVPN builds are distributed only through this repository.
 
 [![Open the latest release](https://img.shields.io/badge/Open%20the%20latest%20release-Download-62E6B5?style=for-the-badge&logo=github&logoColor=07111F)](https://github.com/mehrantabasi/MezaVPN/releases/latest)
 
-File-specific instructions, architecture help, checksum commands, and the Windows unsigned-build notice are in the [download and installation guide](DOWNLOAD.md).
+File-specific instructions, architecture help, checksum commands, and the Windows unsigned-build notice are in the [download and installation guide](DOWNLOAD.md). Step-by-step guides are also on the website: [MezaVPN for Android](https://mehrantabasi.github.io/MezaVPN/vpn-for-android.html) · [MezaVPN for Windows](https://mehrantabasi.github.io/MezaVPN/vpn-for-windows.html).
 
 > Do not install MezaVPN from APK mirrors, file-sharing channels, or unofficial websites. Those copies may be outdated or modified.
+
+## معرفی فارسی MezaVPN
+
+**MezaVPN** یک فیلترشکن و وی پی ان رایگان برای گوشی اندروید و کامپیوتر ویندوزی است. با یک لمس، حالت Auto سرور مناسب را انتخاب می‌کند یا می‌توانید سرور را خودتان انتخاب کنید. برنامه به ثبت‌نام نیاز ندارد، تبلیغ ندارد و فقط وقتی «متصل» نشان می‌دهد که اینترنت واقعاً از طریق VPN کار کند.
+
+- **اندروید:** نسخه ۷ به بالا، یک فایل APK برای ARM64، ARMv7 و x86_64 — [راهنمای دانلود و نصب فیلترشکن اندروید](https://mehrantabasi.github.io/MezaVPN/fa-android.html)
+- **ویندوز:** برنامه Native با نصب‌کننده آفلاین x64 و x86 — [راهنمای دانلود و نصب فیلترشکن ویندوز](https://mehrantabasi.github.io/MezaVPN/fa-windows.html)
+- **دانلود امن:** فقط از [صفحه رسمی Releases](https://github.com/mehrantabasi/MezaVPN/releases/latest) دانلود کنید و فایل را با `SHA256SUMS.txt` همان نسخه مقایسه کنید.
 
 ## Privacy and trust
 
