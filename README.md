@@ -2,11 +2,13 @@
 
 <img src="assets/mezavpn-logo.png" width="104" height="104" alt="MezaVPN logo">
 
-# MezaVPN
+# MezaVPN — VPN for Android and Windows
 
-### A clear, fast VPN experience for Android and Windows
+### Official MezaVPN downloads and release information
 
-Simple controls, truthful connection status, and practical server selection—without an account or advertising SDKs.
+MezaVPN is a VPN application for Android and native Windows with simple controls, clear connection status, and practical automatic or manual server selection—without an account or advertising SDKs.
+
+**فارسی:** برای دانلود رسمی MezaVPN اندروید یا ویندوز و مطالعه معرفی فارسی، به [وب‌سایت فارسی MezaVPN](https://mehrantabasi.github.io/MezaVPN/fa.html) مراجعه کنید.
 
 [![Latest release](https://img.shields.io/badge/Download-v2.0.0-62E6B5?style=for-the-badge&logo=github&logoColor=07111F)](https://github.com/mehrantabasi/MezaVPN/releases/latest)
 [![Android](https://img.shields.io/badge/Android-7.0%2B-3DDC84?style=for-the-badge&logo=android&logoColor=07111F)](https://github.com/mehrantabasi/MezaVPN/releases/latest)
@@ -16,19 +18,19 @@ Simple controls, truthful connection status, and practical server selection—wi
 [![Downloads](https://img.shields.io/github/downloads/mehrantabasi/MezaVPN/total?style=flat-square&label=downloads&color=8B7CFF)](https://github.com/mehrantabasi/MezaVPN/releases)
 [![License](https://img.shields.io/badge/license-proprietary-17283F?style=flat-square)](LICENSE)
 
-[Official website](https://mehrantabasi.github.io/MezaVPN/) · [فارسی](https://mehrantabasi.github.io/MezaVPN/fa.html)
+[MezaVPN official website](https://mehrantabasi.github.io/MezaVPN/) · [MezaVPN فارسی](https://mehrantabasi.github.io/MezaVPN/fa.html)
 
 </div>
 
-<img src="assets/mezavpn-hero-v2.png" width="100%" alt="Abstract MezaVPN secure connection artwork">
+<img src="assets/mezavpn-hero-v2.png" width="100%" alt="MezaVPN VPN application for Android and native Windows">
 
 <div align="center">
 
-[Download](#download) · [What’s new](#version-200) · [Features](#made-for-everyday-connections) · [Privacy](#privacy-and-trust) · [Help](#support)
+[Download MezaVPN](#download-mezavpn-for-android-and-windows) · [Version 2.0.0](#mezavpn-200-for-android-and-windows) · [Features](#mezavpn-features) · [Privacy](#privacy-and-trust) · [Support](#support)
 
 </div>
 
-## Version 2.0.0
+## MezaVPN 2.0.0 for Android and Windows
 
 MezaVPN 2.0 brings the Android and Windows editions together in one coordinated release. Android receives a substantial connection, server-list, and interface update. Windows arrives as a purpose-built native desktop application with dedicated x64 and x86 installers.
 
@@ -40,7 +42,7 @@ MezaVPN 2.0 brings the Android and Windows editions together in one coordinated 
 
 > **Windows transparency:** the 2.0.0 Windows installers are published without an Authenticode certificate. Windows SmartScreen may therefore show an “unknown publisher” warning. Download only from this repository and verify the SHA-256 file before running the installer. See the [download guide](DOWNLOAD.md#windows).
 
-## Made for everyday connections
+## MezaVPN features
 
 - **Auto or manual control** — let MezaVPN choose a responsive option or select a server yourself.
 - **Honest connection state** — the interface confirms usable connectivity before presenting the tunnel as ready.
@@ -76,11 +78,11 @@ MezaVPN 2.0 brings the Android and Windows editions together in one coordinated 
 
 </details>
 
-## Download
+## Download MezaVPN for Android and Windows
 
 Official MezaVPN builds are distributed only through this repository.
 
-1. Open the [latest release](https://github.com/mehrantabasi/MezaVPN/releases/latest).
+1. Open the [latest official MezaVPN release](https://github.com/mehrantabasi/MezaVPN/releases/latest).
 2. Choose the Android APK or the Windows installer matching your architecture.
 3. Compare the file with `SHA256SUMS.txt` attached to the same release.
 4. Install and follow the operating system’s VPN permission or UAC prompt.
